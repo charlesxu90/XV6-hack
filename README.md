@@ -2,7 +2,7 @@ XV6 Hacking
 =============
 This is my reports for CS 240 coursework at KAUST.
 
-Download and open the PDF file directly is not applicable. Better to clone the repository and then you can open the PDF file in your computer.
+Download and open the PDF file directly is not applicable. Please clone the repository and then you can open the PDF file in your computer.
 
 clone commands: 
 ``` shell
